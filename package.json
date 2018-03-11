@@ -1,0 +1,22 @@
+{
+  "name": "typescript",
+  "version": "2.7.2",
+  "description": "This will give extra api and functionality while working with ts",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdReVice/wayToHere.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "AdreVice",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/AdReVice/wayToHere/issues"
+  },
+  "homepage": "https://github.com/AdReVice/wayToHere#readme"
+}
